@@ -47,10 +47,10 @@ button:hover {
 }
 
 .gambar-warung {
-    display: block;        /* Agar gambar otomatis berada di baris baru (di bawah tulisan) */
-    width: 100%;           /* Lebar gambar menyesuaikan area daftar menu */
-    max-width: 250px;      /* Maksimal lebar gambar (agar tidak terlalu besar) */
-    height: auto;          /* Menjaga proporsi tinggi gambar */
-    margin: 8px auto 15px; /* Memberi jarak atas/bawah dan posisi tengah */
-    border-radius: 8px;    /* Opsional: Membuat sudut gambar sedikit melengkung */
+    display: block;       
+    width: 100%;           
+    max-width: 250px;      
+    height: auto;          
+    margin: 8px auto 15px; 
+    border-radius: 8px;    
 }
